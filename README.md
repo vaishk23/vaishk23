@@ -8,8 +8,4 @@ Hi 👋 I’m Vaishnavi
 
 📫 How to reach me: vaishk232@gmail.com
 
-
-
-📊💻Language & Tools
-
-SQL,Power BI
+📊💻Language & Tools : SQL,Power BI
