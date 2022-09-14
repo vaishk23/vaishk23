@@ -7,3 +7,8 @@ Hi 👋 I’m Vaishnavi
 👩‍💻 All my projects are available at https://github.com/vaishk23/PowerBI-Projects
 
 📫 How to reach me: vaishk232@gmail.com
+
+
+
+Language & Tools
+SQL,Power BI
