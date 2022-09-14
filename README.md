@@ -10,5 +10,6 @@ Hi 👋 I’m Vaishnavi
 
 
 
-Language & Tools
+📊💻Language & Tools
+
 SQL,Power BI
