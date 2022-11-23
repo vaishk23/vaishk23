@@ -6,7 +6,7 @@ Hi 👋 I’m Vaishnavi
 
 👩‍💻 Prior to getting into Data Analysis field, I had 4.5 years of experience in the HR field as a Technical Recruiter. 
 
-👀 Currently I am looking for entry level job in the field of Data Analytics where i can utilize the skills I have learned and gain new skills.
+👀 Currently I am looking for entry level job in the field of Data Analytics where i can hone the skills I have learned and gain new skills.
 
 👩‍💻 All my projects are available at https://github.com/vaishk23/PowerBI-Projects
 
