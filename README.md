@@ -12,4 +12,4 @@ Hi 👋 I’m Vaishnavi
 
 📫 How to reach me: vaishk232@gmail.com
 
-📊💻Language & Tool : SQL,Power BI
+📊💻Language & Tool : Excel,SQL,Power BI
