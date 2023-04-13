@@ -8,8 +8,10 @@ Hi 👋 I’m Vaishnavi
 
 👀 Currently I am looking for entry level job in the field of Data Analytics where i can hone the skills I have learned and gain new skills.
 
-👩‍💻 All my projects are available at https://github.com/vaishk23/PowerBI-Projects
-
+👩‍💻 All my projects are available at 
+   Power BI Projects : https://github.com/vaishk23/PowerBI-Projects
+   Excel Projects    : https://github.com/vaishk23/Excel-Projects
+   
 📫 How to reach me: vaishk232@gmail.com
 
 📊💻Language & Tool : Excel,SQL,Power BI
