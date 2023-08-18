@@ -10,7 +10,7 @@ Hi 👋 I’m Vaishnavi
 
 Link to all my projects 
 
-🔗Power BI Projects : https://github.com/vaishk23/PowerBI-Projects                                                         
+🔗Power BI Projects : https://github.com/vaishk23/PowerBI-Projects  https://www.novypro.com/profile_projects/vaishnavi                                                       
 
 🔗Excel Projects: https://github.com/vaishk23/Excel-Projects
    
