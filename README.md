@@ -6,7 +6,7 @@ Hi 👋 I’m Vaishnavi
 
 📈 To facilitate my transition into a Data Analyst role, I have proactively pursued relevant certifications, including Power BI, SQL, and Advanced Excel. I have created Power BI Dashboards and Reports to generate useful insights.I have done Virtual Internship “Data Analytics in Power BI” offered by PwC which allowed me to apply these skills in a real-world business context, further strengthening my analytical capabilities.
 
-👀 Currently I am looking for entry level job in the field of Data Analytics where i can hone the skills I have learned and gain new skills.
+👀 Currently I am looking for job in the field of Data Analytics where i can hone the skills I have learned and gain new skills.
 
 Link to all my projects 
 
