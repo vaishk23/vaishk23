@@ -12,7 +12,7 @@ Link to all my projects
 
 🔗Power BI Projects : https://www.novypro.com/profile_projects/vaishnavi                                                       
 
-🔗Excel Projects: https://github.com/vaishk23/Excel-Projects
+🔗Excel Project: https://github.com/vaishk23/Excel-Projects
 
 🔗SQL Project: https://github.com/vaishk23/SQL-Project-Music-Store-Analysis
    
